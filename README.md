@@ -1,5 +1,5 @@
 # Awesome-Synapse
-List of Awesome Vertex Synapse Resources. 
+A semi-comprehensive list of tools, blogs and other resources useful for users of the [Synapse platform](https://github.com/vertexproject/synapse). 
 
 ## Power-Ups
 
@@ -47,3 +47,6 @@ List of Awesome Vertex Synapse Resources.
 - [Vertex Synapse Official Blog](https://vertex.link/blog)
 - [Vertex Synapse Official YouTube](https://www.youtube.com/@vtxproject/videos)
 - [APT1 Scavenger Hunt](https://docsend.com/view/76di35ysrpkhrkmj)
+
+## Contributing
+Feel free to open PRs with relevant blog posts, conference talks etc. 

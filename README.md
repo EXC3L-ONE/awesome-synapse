@@ -11,10 +11,12 @@ A semi-comprehensive list of tools, blogs and other resources useful for users o
   - Synapse Rapid Power-Up for SinkDB
 - [Synapse-Triage](https://github.com/captainGeech42/synapse-triage)
   - Synapse Rapid Power-Up for Hatching Triage
-- [Synapse-LCTTIH](https://github.com/stvrsxz/synapse-lctih)
-  - A Little CTI Helper Synapse Rapid Power-Up. A simple, not very smart, but useful poor man's power-up for Synapse. 
+- [Synapse-Malpedia](https://github.com/EXC3L-ONE/synapse-malpedia)
+  - Synapse Rapid Power-Up for ingesting Malpedia malware and threat actor profiles 
 - [Synapse-IOCParser](https://github.com/EXC3L-ONE/synapse-iocparser)
   - Synapse Rapid Power-Up that adds support for the `iocparser.com` service for quick ingestion of IOCs into Synapse from raw text and URLs.
+- [Synapse-LCTTIH](https://github.com/stvrsxz/synapse-lctih)
+  - A Little CTI Helper Synapse Rapid Power-Up. A simple, not very smart, but useful poor man's power-up for Synapse. 
 - [LookupStorm](https://github.com/gormaniac/lookupstorm)
   - A Synapse Rapid Power-Up for looking up common atomic indicators in Synapse as strings rather than a `<form>=<valu>` pair.
 - [DNSStorm](https://github.com/gormaniac/dnsstorm)

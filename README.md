@@ -23,6 +23,14 @@ A semi-comprehensive list of tools, blogs and other resources useful for users o
   - A Synapse Rapid Power-Up that brings DNS over HTTPS capabilities to a Cortex
 - [PowerUp-AssemblyLine](https://github.com/usaa/powerup-assemblyline)
   - Synapse Rapid Power-Up that allows Synapse to interact with Assemblyline v4.
+- [Synapse-Onyphe](https://github.com/ancailliau/synapse-onyphe)
+  - Synapse-Onyphe is a Rapid Power-Up for Synapse, designed to enhance your cybersecurity and threat intelligence workflows by seamlessly integrating with the Onyphe platform.
+- [Synapse-LeakIX](https://github.com/ancailliau/synapse-leakix)
+  - Synapse-LeakIX is a Rapid Power-Up for Synapse, designed to improve your cybersecurity and threat intelligence workflows by integrating with the LeakIX platform.
+- [Synapse-HashLookup](https://github.com/ancailliau/synapse-hashlookup)
+  - Synapse-HashLookup is a Rapid PowerUp for Synapse, enabling users to query hash values against a known database of files.
+- [Arcane-OTX](https://github.com/schrodyn/arcane-otx)
+  - Synapse Package for Alienvault OTX
 
 ### Advanced Power-Ups
 - [Synapse-FileParser](https://github.com/captainGeech42/synapse-fileparser)
@@ -39,11 +47,19 @@ A semi-comprehensive list of tools, blogs and other resources useful for users o
   - StormLib++ is a collection of Python code that make life as a Storm service developer easier.
 - [Synapse-Data-Model](https://github.com/ancailliau/synapse-data-model)
   - A JSON Schema export of the data model used by Vertex Synapse.
+ 
+
 
 ## Community
 
 ### Social Media
 - [Vertex Synapse Slack](https://v.vtx.lk/slack)
+
+### Training
+- [Storm Snippets](https://github.com/vertexproject/storm-snippets)
+  - An initial repo to capture useful storm snippets and examples.
+- [KC7 Academy _"Storm Is Brewing In the Lab"_ training](https://scoreboard.kc7cyber.com/modules/CWC)
+  - Guided training course for the Synapse platform and the Storm query language.
 
 ### Blog posts
 - [Vertex Synapse Official Blog](https://vertex.link/blog)

@@ -17,9 +17,9 @@ A semi-comprehensive list of tools, blogs and other resources useful for users o
   - Synapse Rapid Power-Up that adds support for the `iocparser.com` service for quick ingestion of IOCs into Synapse from raw text and URLs.
 - [Synapse-LCTTIH](https://github.com/stvrsxz/synapse-lctih)
   - A Little CTI Helper Synapse Rapid Power-Up. A simple, not very smart, but useful poor man's power-up for Synapse. 
-- [LookupStorm](https://github.com/gormaniac/lookupstorm)
+- [LookupStorm](https://github.com/gormaniac/stormlibpp/tree/main/src/pkgs/lookup-storm)
   - A Synapse Rapid Power-Up for looking up common atomic indicators in Synapse as strings rather than a `<form>=<valu>` pair.
-- [DNSStorm](https://github.com/gormaniac/dnsstorm)
+- [DNSStorm](https://github.com/gormaniac/stormlibpp/tree/main/src/pkgs/dnsstorm)
   - A Synapse Rapid Power-Up that brings DNS over HTTPS capabilities to a Cortex
 - [PowerUp-AssemblyLine](https://github.com/usaa/powerup-assemblyline)
   - Synapse Rapid Power-Up that allows Synapse to interact with Assemblyline v4.

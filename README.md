@@ -15,6 +15,8 @@ A semi-comprehensive list of tools, blogs and other resources useful for users o
   - Synapse Rapid Power-Up for ingesting Malpedia malware and threat actor profiles 
 - [Synapse-IOCParser](https://github.com/EXC3L-ONE/synapse-iocparser)
   - Synapse Rapid Power-Up that adds support for the `iocparser.com` service for quick ingestion of IOCs into Synapse from raw text and URLs.
+- [Synapse-ThreatFox](https://github.com/EXC3L-ONE/synapse-threatfox)
+  - Synapse Rapid Power-Up for ingesting and querying the Abuse.ch ThreatFox API
 - [Synapse-LCTTIH](https://github.com/stvrsxz/synapse-lctih)
   - A Little CTI Helper Synapse Rapid Power-Up. A simple, not very smart, but useful poor man's power-up for Synapse. 
 - [LookupStorm](https://github.com/gormaniac/stormlibpp/tree/main/src/pkgs/lookup-storm)
